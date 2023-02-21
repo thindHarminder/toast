@@ -1,4 +1,4 @@
-import $ from 'blingblingjs'
+
 import Toast from 'https://cdn.jsdelivr.net/gh/thindHarminder/toast@main/toast.js'
 
 $('#spells').on('click', async () => {
